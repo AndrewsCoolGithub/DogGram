@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>783103766122-7npehr06i97qt52for7dsreuvh95nqju.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.783103766122-7npehr06i97qt52for7dsreuvh95nqju</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1-ggS0c3CfuHnc5L3N2Y9pnxa0Bj8hC4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>783103766122</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.andrew.DogGram</string>
+	<key>PROJECT_ID</key>
+	<string>doggram-31aa6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doggram-31aa6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:783103766122:ios:4795d6a2ab1463024c6413</string>
+</dict>
+</plist>
